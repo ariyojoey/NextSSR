@@ -1,4 +1,5 @@
 This is a Next JS app, developed by Ariyo Ayodreji Ifeoluwa.
+It is a Next App with Server Side Rendering.
 
 ## Getting Started
 

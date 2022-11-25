@@ -24,3 +24,22 @@ a {
     background: black;
   }
 }
+
+.header{
+  background-color: #000;
+  color: #fff;
+  padding: 5px;  
+}
+
+.footer{
+  text-align: center;
+}
+
+.body{
+   height: 75vh;
+}
+
+p{
+  margin-bottom: 0px !important;
+  padding: 0px;
+}
